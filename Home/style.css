@@ -1,0 +1,24 @@
+ * {
+    box-sizing: border-box; 
+    margin: 0;
+    padding: 0;
+    background-color: #f1ebeb3c;
+    font-family: sans-serif;
+
+}
+
+nav a {
+    color: rgb(141, 29, 29);
+    font-size: 150%;
+
+}
+
+a:hover{
+    background: white;
+    color: palevioletred;
+}
+
+img{
+    width: 100%;
+
+}
