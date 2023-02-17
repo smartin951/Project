@@ -6,6 +6,9 @@
     font-family: sans-serif;
 
 }
+footer .bottom{
+  padding: 30%;
+}
 
 nav a {
     color: rgb(141, 29, 29);
@@ -15,10 +18,32 @@ nav a {
 
 a:hover{
     background: white;
-    color: palevioletred;
+    color: rgb(224, 129, 161);
 }
 
-img{
-    width: 100%;
-
+.fa {
+    align-content: center;
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
 }
+
+.fa:hover {
+    opacity: 0.7;
+}
+    
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
