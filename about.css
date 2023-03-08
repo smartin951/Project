@@ -1,4 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
 * {
+
     
     margin: 0;
     padding: 0;
@@ -15,6 +17,7 @@ a:hover{
     background: white;
     color: rgb(224, 129, 161);
 }
-main .four{
-    color: rgb(156, 97, 97);
+
+.me {
+    font-family: 'Architects Daughter', cursive;
 }
